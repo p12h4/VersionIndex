@@ -100,6 +100,11 @@
     "UUID": "46e9d597-e8b9-49e3-ad13-e036921b2c7c"
   },
   {
+    "Name": "1.19.83.01",
+    "Type": "Release",
+    "UUID": "383fa522-5568-48d1-94fa-dd44b31f02b3"
+  },
+  {
     "Name": "1.19.80.21",
     "Type": "Preview",
     "UUID": "e619437b-ec7e-4805-95c2-440b57d7c0c0"
@@ -108,6 +113,11 @@
     "Name": "1.19.80.20",
     "Type": "Preview",
     "UUID": "7e97da4f-1afe-4c3c-a73f-accc8abefb59"
+  },
+  {
+    "Name": "1.19.81.01",
+    "Type": "Release",
+    "UUID": "950a8a92-a558-48b7-872b-41dbd663f29a"
   },
   {
     "Name": "1.19.80.02",
