@@ -1,0 +1,802 @@
+[
+  {
+    "Name": "1.20.20.22",
+    "Type": "Preview",
+    "UUID": "14eb9b19-c129-444a-ad64-b9f8c9cbd149"
+  },
+  {
+    "Name": "1.20.12.01",
+    "Type": "Release",
+    "UUID": "8cd36a7b-2da0-4389-ad6e-06f975a336ca"
+  },
+  {
+    "Name": "1.20.20.21",
+    "Type": "Preview",
+    "UUID": "e07dacf5-0654-4cc2-a3b0-9222d623b791"
+  },
+  {
+    "Name": "1.20.10.01",
+    "Type": "Release",
+    "UUID": "ea354812-8e56-4eb9-9530-fb7c86fe305d"
+  },
+  {
+    "Name": "1.20.20.20",
+    "Type": "Preview",
+    "UUID": "55ce5b86-05d6-452d-a53c-572e8a6f6884"
+  },
+  {
+    "Name": "1.20.10.24",
+    "Type": "Preview",
+    "UUID": "1b33cb73-a9d0-4884-adbc-dd5198990694"
+  },
+  {
+    "Name": "1.20.10.23",
+    "Type": "Preview",
+    "UUID": "5a7eaaf7-a707-463a-87a0-19c106b8ca8c"
+  },
+  {
+    "Name": "1.20.0.1",
+    "Type": "Release",
+    "UUID": "6c853155-c111-4054-9833-f206e37ca7d5"
+  },
+  {
+    "Name": "1.20.10.21",
+    "Type": "Preview",
+    "UUID": "1298a141-4501-4d91-9fd8-98ccf965bc33"
+  },
+  {
+    "Name": "1.20.10.20",
+    "Type": "Preview",
+    "UUID": "a4e6c359-6e08-4fba-bb09-d21809081512"
+  },
+  {
+    "Name": "1.20.0.25",
+    "Type": "Preview",
+    "UUID": "bc8fe845-3532-493f-a12f-56298157e3b0"
+  },
+  {
+    "Name": "1.20.0.24",
+    "Type": "Preview",
+    "UUID": "c400e409-e911-416a-839b-3f08d930d66a"
+  },
+  {
+    "Name": "1.20.0.23",
+    "Type": "Preview",
+    "UUID": "5c43c764-b8d8-4744-a03b-dea76c2860d1"
+  },
+  {
+    "Name": "1.20.0.22",
+    "Type": "Preview",
+    "UUID": "a07daa93-aa15-4e78-971e-f771e2f8d603"
+  },
+  {
+    "Name": "1.20.0.21",
+    "Type": "Preview",
+    "UUID": "070c1f8b-018b-4880-944f-ef2dda00bc8c"
+  },
+  {
+    "Name": "1.20.0.20",
+    "Type": "Preview",
+    "UUID": "e048c0b3-cb39-4fe3-a467-296b23a4cf67"
+  },
+  {
+    "Name": "1.19.80.24",
+    "Type": "Preview",
+    "UUID": "df155426-f980-493c-b73b-fdc652c12273"
+  },
+  {
+    "Name": "1.19.80.23",
+    "Type": "Preview",
+    "UUID": "80dbcd81-cd11-4a93-b570-08c7c7d7f5e5"
+  },
+  {
+    "Name": "1.19.80.22",
+    "Type": "Preview",
+    "UUID": "46e9d597-e8b9-49e3-ad13-e036921b2c7c"
+  },
+  {
+    "Name": "1.19.80.21",
+    "Type": "Preview",
+    "UUID": "e619437b-ec7e-4805-95c2-440b57d7c0c0"
+  },
+  {
+    "Name": "1.19.80.20",
+    "Type": "Preview",
+    "UUID": "7e97da4f-1afe-4c3c-a73f-accc8abefb59"
+  },
+  {
+    "Name": "1.19.80.02",
+    "Type": "Release",
+    "UUID": "0998daff-f3f9-4887-aef5-d15f9e461604"
+  },
+  {
+    "Name": "1.19.70.26",
+    "Type": "Preview",
+    "UUID": "4e33455c-35e8-47ae-9af5-4db8fd8cdc13"
+  },
+  {
+    "Name": "1.19.70.24",
+    "Type": "Preview",
+    "UUID": "8c06d1cf-ef90-4090-a4be-750600ac1b47"
+  },
+  {
+    "Name": "1.19.70.23",
+    "Type": "Preview",
+    "UUID": "1a858916-b95f-4efd-8d2c-76ce4604df5d"
+  },
+  {
+    "Name": "1.19.70.22",
+    "Type": "Preview",
+    "UUID": "542de049-3f15-4e52-8f10-73894d0e0922"
+  },
+  {
+    "Name": "1.19.70.21",
+    "Type": "Preview",
+    "UUID": "9b207aa4-153a-469b-a9a3-2fc55e406771"
+  },
+  {
+    "Name": "1.19.70.20",
+    "Type": "Preview",
+    "UUID": "d5e6e6ea-9927-4d1d-aff2-7e2db001b4cc"
+  },
+  {
+    "Name": "1.19.73.2",
+    "Type": "Release",
+    "UUID": "d8d0c686-68ca-409d-bbd2-68666cd5e338"
+  },
+  {
+    "Name": "1.19.70.2",
+    "Type": "Release",
+    "UUID": "eb4ebf86-915f-4bbf-a50f-2d327558c98e"
+  },
+  {
+    "Name": "1.19.63.1",
+    "Type": "Release",
+    "UUID": "19477670-0d51-47de-99bd-8140dc6812ed"
+  },
+  {
+    "Name": "1.19.62.1",
+    "Type": "Release",
+    "UUID": "835f6541-b076-4515-8792-05f91792f999"
+  },
+  {
+    "Name": "1.19.60.27",
+    "Type": "Preview",
+    "UUID": "b56cd5ea-9f63-42ce-ae22-b841efc5640b"
+  },
+  {
+    "Name": "1.19.60.26",
+    "Type": "Preview",
+    "UUID": "3a971e56-5fdc-47f8-a3a3-95b5c956936d"
+  },
+  {
+    "Name": "1.19.60.25",
+    "Type": "Preview",
+    "UUID": "50791383-578b-474d-be88-3cce2cd0225f"
+  },
+  {
+    "Name": "1.19.60.24",
+    "Type": "Preview",
+    "UUID": "0206c3a5-a60a-4f52-97dc-964f77a720db"
+  },
+  {
+    "Name": "1.19.60.23",
+    "Type": "Preview",
+    "UUID": "abb651ed-93b5-4b59-b25e-46f3ecdd8677"
+  },
+  {
+    "Name": "1.19.60.22",
+    "Type": "Preview",
+    "UUID": "351ab883-1561-4774-995c-c7fde2baccd2"
+  },
+  {
+    "Name": "1.19.60.20",
+    "Type": "Preview",
+    "UUID": "700d26f6-d1e0-499f-8574-1367b731820e"
+  },
+  {
+    "Name": "1.19.60.3",
+    "Type": "Release",
+    "UUID": "b77467c8-05e5-4196-9e1c-eab38286c98f"
+  },
+  {
+    "Name": "1.19.51.1",
+    "Type": "Release",
+    "UUID": "916e7a8f-5899-4fe8-970c-9ec39f361241"
+  },
+  {
+    "Name": "1.19.50.2",
+    "Type": "Release",
+    "UUID": "ce5fcdc1-5b4c-49e5-94d6-afef3282e58c"
+  },
+  {
+    "Name": "1.19.50.25",
+    "Type": "Preview",
+    "UUID": "eabe6f03-b3b9-456b-81b3-5e1922330ac8"
+  },
+  {
+    "Name": "1.19.50.24",
+    "Type": "Preview",
+    "UUID": "605694fd-9bbb-4966-8366-5a19c94e12b4"
+  },
+  {
+    "Name": "1.19.50.23",
+    "Type": "Preview",
+    "UUID": "afb184e8-201e-4d20-9d6e-d48550c2ea06"
+  },
+  {
+    "Name": "1.19.50.22",
+    "Type": "Preview",
+    "UUID": "adcc36b5-0afe-4f13-b0fb-a108896a6bc3"
+  },
+  {
+    "Name": "1.19.50.21",
+    "Type": "Preview",
+    "UUID": "ccf03008-c7a9-48dc-bb50-20bc0487b76e"
+  },
+  {
+    "Name": "1.19.50.20",
+    "Type": "Preview",
+    "UUID": "6345d3bf-44ac-458a-b137-25919f3e34f7"
+  },
+  {
+    "Name": "1.19.41.1",
+    "Type": "Release",
+    "UUID": "93b0b8d8-1787-44c5-8ca4-825fada0f105"
+  },
+  {
+    "Name": "1.19.40.24",
+    "Type": "Preview",
+    "UUID": "d54c5515-febf-46cf-9c02-e02db95aa463"
+  },
+  {
+    "Name": "1.19.40.23",
+    "Type": "Preview",
+    "UUID": "1fd77fbe-c806-438c-b578-fe124a972fbb"
+  },
+  {
+    "Name": "1.19.40.22",
+    "Type": "Preview",
+    "UUID": "115d47db-32a5-422b-abdd-79cb9e9366ae"
+  },
+  {
+    "Name": "1.19.40.21",
+    "Type": "Preview",
+    "UUID": "b82b9887-6f7a-4efd-a142-cac192b3f7c5"
+  },
+  {
+    "Name": "1.19.40.2",
+    "Type": "Release",
+    "UUID": "8e3cf94f-ab8d-45e7-b7dd-1f2a670d2e65"
+  },
+  {
+    "Name": "1.19.31.1",
+    "Type": "Release",
+    "UUID": "3702b4c4-d244-4e7c-9566-d5fa97df02ef"
+  },
+  {
+    "Name": "1.19.30.25",
+    "Type": "Preview",
+    "UUID": "45f5256b-0511-4dfd-a46e-4669601fdc6e"
+  },
+  {
+    "Name": "1.19.30.23",
+    "Type": "Preview",
+    "UUID": "7209714f-1c94-4218-b3d1-fed1141ae13c"
+  },
+  {
+    "Name": "1.19.30.22",
+    "Type": "Preview",
+    "UUID": "c3b71ea8-b539-4fe5-b68a-5bf3ef4892d2"
+  },
+  {
+    "Name": "1.19.30.20",
+    "Type": "Preview",
+    "UUID": "0eee2956-c6ac-480a-aae6-87ac56fd62cc"
+  },
+  {
+    "Name": "1.19.30.4",
+    "Type": "Release",
+    "UUID": "226b8035-899a-4a58-a1af-d4341568d96f"
+  },
+  {
+    "Name": "1.19.22.1",
+    "Type": "Release",
+    "UUID": "c5ab1807-ef8b-46f8-837e-7929820121bc"
+  },
+  {
+    "Name": "1.19.21.1",
+    "Type": "Release",
+    "UUID": "7a67b807-6e27-468e-8d3d-372364364eb9"
+  },
+  {
+    "Name": "1.19.20.24",
+    "Type": "Preview",
+    "UUID": "1fc60666-9d53-4595-aceb-6f38b862cc6b"
+  },
+  {
+    "Name": "1.19.20.23",
+    "Type": "Preview",
+    "UUID": "14fbf174-5755-4169-baf2-6885d3898c8c"
+  },
+  {
+    "Name": "1.19.20.22",
+    "Type": "Preview",
+    "UUID": "c8607823-f81a-42e4-9f46-c1bb3fbb06ed"
+  },
+  {
+    "Name": "1.19.20.20",
+    "Type": "Preview",
+    "UUID": "49ba15bb-d0a2-428f-a8a9-3b2a17cc96c2"
+  },
+  {
+    "Name": "1.19.20.2",
+    "Type": "Release",
+    "UUID": "6fbce732-132a-4fcd-af47-d9ae4152380a"
+  },
+  {
+    "Name": "1.19.11.1",
+    "Type": "Release",
+    "UUID": "57c66c18-ae99-4776-9deb-4a0bf98b2425"
+  },
+  {
+    "Name": "1.19.10.24",
+    "Type": "Preview",
+    "UUID": "0179e0d4-dd33-4f3c-b76c-be40496fcea0"
+  },
+  {
+    "Name": "1.19.10.22",
+    "Type": "Preview",
+    "UUID": "297a3833-310d-4bdc-9607-6443f7d28cb7"
+  },
+  {
+    "Name": "1.19.10.21",
+    "Type": "Preview",
+    "UUID": "d8e31166-9e3c-4deb-9590-964022eb61b8"
+  },
+  {
+    "Name": "1.19.10.20",
+    "Type": "Preview",
+    "UUID": "165d7914-4597-4398-9325-1820003168b5"
+  },
+  {
+    "Name": "1.19.10.3",
+    "Type": "Release",
+    "UUID": "de502964-5528-4665-80bf-47e43a4082a1"
+  },
+  {
+    "Name": "1.19.2.2",
+    "Type": "Release",
+    "UUID": "61cab36e-3b4b-483c-9633-3915a3bd4f12"
+  },
+  {
+    "Name": "1.19.0.35",
+    "Type": "Preview",
+    "UUID": "916af7b2-7eb4-4b18-83d5-cc302bf82e7f"
+  },
+  {
+    "Name": "1.19.0.33",
+    "Type": "Preview",
+    "UUID": "fd9a07cd-49e7-4fe6-9791-5358d0c23138"
+  },
+  {
+    "Name": "1.19.0.31",
+    "Type": "Preview",
+    "UUID": "4cfc96bf-f319-442a-b48d-c88956669414"
+  },
+  {
+    "Name": "1.19.0.29",
+    "Type": "Preview",
+    "UUID": "c8d89b8b-6e1e-41ed-a3ba-a700cc13e5b5"
+  },
+  {
+    "Name": "1.19.0.27",
+    "Type": "Preview",
+    "UUID": "6e4c1c50-3d50-4589-8504-eab4747b55e0"
+  },
+  {
+    "Name": "1.19.0.25",
+    "Type": "Preview",
+    "UUID": "f76c2e43-6ac1-4959-8573-a85636ffcee3"
+  },
+  {
+    "Name": "1.19.0.21",
+    "Type": "Preview",
+    "UUID": "779ff155-e5ae-4c5f-8847-fb36f1d91579"
+  },
+  {
+    "Name": "1.19.0.5",
+    "Type": "Release",
+    "UUID": "28d2f975-a0fc-401a-9987-9a6a117f8922"
+  },
+  {
+    "Name": "1.18.31.4",
+    "Type": "Release",
+    "UUID": "05098106-ffcf-4b13-8e59-8608547501c1"
+  },
+  {
+    "Name": "1.18.30.31",
+    "Type": "Preview",
+    "UUID": "9e228ff9-9374-498f-a1b4-f84b080ad940"
+  },
+  {
+    "Name": "1.18.30.29",
+    "Type": "Preview",
+    "UUID": "fd7cc6b0-aadf-48c4-8487-185cdcd0bea0"
+  },
+  {
+    "Name": "1.18.30.27",
+    "Type": "Preview",
+    "UUID": "4959b0c0-9d57-49dc-8fa6-bb3b88f20611"
+  },
+  {
+    "Name": "1.18.30.23",
+    "Type": "Preview",
+    "UUID": "c1a7f56e-11ed-498b-8d64-17cab53a5eb3"
+  },
+  {
+    "Name": "1.18.30.21",
+    "Type": "Preview",
+    "UUID": "a24bdd6a-0e28-45e4-85a3-b52507eb249c"
+  },
+  {
+    "Name": "1.18.30.4",
+    "Type": "Release",
+    "UUID": "63e6744c-e38f-4c0f-bcb9-56b863cf1ab8"
+  },
+  {
+    "Name": "1.18.20.30",
+    "Type": "Preview",
+    "UUID": "ef5bcd23-ab79-47de-b337-acc9dbdcbd1e"
+  },
+  {
+    "Name": "1.18.20.28",
+    "Type": "Preview",
+    "UUID": "d30fcbb2-4fde-4bb5-84c1-abb0dd549188"
+  },
+  {
+    "Name": "1.18.20.26",
+    "Type": "Preview",
+    "UUID": "012d3665-b5e8-4f35-97f3-94edc3efa311"
+  },
+  {
+    "Name": "1.18.12.1",
+    "Type": "Release",
+    "UUID": "ec829b28-dee8-4886-9194-f0641ba2b669"
+  },
+  {
+    "Name": "1.18.10.4",
+    "Type": "Release",
+    "UUID": "661f0eb8-1345-46b8-8682-42454c9e3c43"
+  },
+  {
+    "Name": "1.18.2.3",
+    "Type": "Release",
+    "UUID": "2b5252f5-9271-4ed8-9739-e0fb14ffcae8"
+  },
+  {
+    "Name": "1.18.1.2",
+    "Type": "Release",
+    "UUID": "4a33b451-ac0f-44eb-8773-6d2c10a240b8"
+  },
+  {
+    "Name": "1.18.0.2",
+    "Type": "Release",
+    "UUID": "c4a7d44d-eec2-4f5f-bdba-8f3fe0aee7fc"
+  },
+  {
+    "Name": "1.17.41.1",
+    "Type": "Release",
+    "UUID": "ad386d9f-fde0-4a00-b1aa-627f90d5eaa4"
+  },
+  {
+    "Name": "1.17.40.6",
+    "Type": "Release",
+    "UUID": "23ae1916-3419-4c12-a0e6-be478a0984b3"
+  },
+  {
+    "Name": "1.17.34.2",
+    "Type": "Release",
+    "UUID": "50632099-9e31-4f34-8b7b-7627bdcc9820"
+  },
+  {
+    "Name": "1.17.32.2",
+    "Type": "Release",
+    "UUID": "d2c451fa-9e16-4906-9c86-3ca389290d26"
+  },
+  {
+    "Name": "1.17.30.4",
+    "Type": "Release",
+    "UUID": "a2d318b1-f699-4a24-9314-35ade861c3d1"
+  },
+  {
+    "Name": "1.17.11.1",
+    "Type": "Release",
+    "UUID": "a0dcfb59-7e5e-49ca-9ab8-0958cf12b889"
+  },
+  {
+    "Name": "1.17.10.4",
+    "Type": "Release",
+    "UUID": "e156df1e-3d33-4aa1-9fdb-d074ca37e3cb"
+  },
+  {
+    "Name": "1.17.2.1",
+    "Type": "Release",
+    "UUID": "509fff69-8614-40e8-add8-c4cb594bb7b2"
+  },
+  {
+    "Name": "1.17.0.2",
+    "Type": "Release",
+    "UUID": "24c14b31-634d-4dfc-a185-15878cee9dc6"
+  },
+  {
+    "Name": "1.16.221.1",
+    "Type": "Release",
+    "UUID": "bc9ded47-a0be-4bcd-a008-2f1c247a22ef"
+  },
+  {
+    "Name": "1.16.220.2",
+    "Type": "Release",
+    "UUID": "96d47f16-d0ad-453c-aa68-6f394f4c521b"
+  },
+  {
+    "Name": "1.16.210.5",
+    "Type": "Release",
+    "UUID": "8bc5ce35-7f7c-4980-8015-4041e3500abd"
+  },
+  {
+    "Name": "1.16.201.2",
+    "Type": "Release",
+    "UUID": "d252bd3c-7331-43cc-a67c-3e5519bdb792"
+  },
+  {
+    "Name": "1.16.200.2",
+    "Type": "Release",
+    "UUID": "53cad706-4191-4289-8eee-c401a486ad1a"
+  },
+  {
+    "Name": "1.16.100.4",
+    "Type": "Release",
+    "UUID": "d8107807-40f7-4552-a78c-f410fe1ae1df"
+  },
+  {
+    "Name": "1.16.40.2",
+    "Type": "Release",
+    "UUID": "49968828-1578-4f5a-b182-1455ec2b57d6"
+  },
+  {
+    "Name": "1.16.20.3",
+    "Type": "Release",
+    "UUID": "a3306a97-5e87-4a00-8327-5d44b27ead8b"
+  },
+  {
+    "Name": "1.16.10.2",
+    "Type": "Release",
+    "UUID": "fa089b11-1468-428e-8762-8b7bc8adfc17"
+  },
+  {
+    "Name": "1.16.1.2",
+    "Type": "Release",
+    "UUID": "b76ea735-b1a3-4ffc-b4ca-f5ad67e9e45f"
+  },
+  {
+    "Name": "1.16.0.2",
+    "Type": "Release",
+    "UUID": "8ecef46e-e8be-473c-bfe3-db35ef3c173d"
+  },
+  {
+    "Name": "1.14.60.5",
+    "Type": "Release",
+    "UUID": "a7048ece-24fa-429a-8df4-dc19a7ca751d"
+  },
+  {
+    "Name": "1.14.30.2",
+    "Type": "Release",
+    "UUID": "d2785376-3c4b-4e7f-b903-9293180769e7"
+  },
+  {
+    "Name": "1.14.20.1",
+    "Type": "Release",
+    "UUID": "d807bbf1-c63a-4d67-a53a-cc7d78398ffc"
+  },
+  {
+    "Name": "1.14.1.5",
+    "Type": "Release",
+    "UUID": "28e6e288-5296-42ed-b086-0a629a4f68aa"
+  },
+  {
+    "Name": "1.14.0.9",
+    "Type": "Release",
+    "UUID": "e67df0cc-2a09-44c1-ba77-c441c331dae0"
+  },
+  {
+    "Name": "1.13.1.5",
+    "Type": "Release",
+    "UUID": "01fb9b77-507d-420d-8116-0a1042c1e680"
+  },
+  {
+    "Name": "1.13.0.34",
+    "Type": "Release",
+    "UUID": "29de2df8-a8fd-43c7-9594-09fd8c9ae8a1"
+  },
+  {
+    "Name": "1.12.1.1",
+    "Type": "Release",
+    "UUID": "afa14647-f21b-4191-aa98-b88f164c5201"
+  },
+  {
+    "Name": "1.12.0.28",
+    "Type": "Release",
+    "UUID": "dd4e7be3-57f9-47fe-aeea-8caab07e6469"
+  },
+  {
+    "Name": "1.11.4.2",
+    "Type": "Release",
+    "UUID": "fc1de9e4-cf9f-47c3-8654-2835ec993964"
+  },
+  {
+    "Name": "1.11.3.1",
+    "Type": "Release",
+    "UUID": "c1f34823-2e07-4af0-940a-184cfffd076e"
+  },
+  {
+    "Name": "1.11.1.2",
+    "Type": "Release",
+    "UUID": "ce39153e-e937-454a-9fb0-70b35c723062"
+  },
+  {
+    "Name": "1.11.0.23",
+    "Type": "Release",
+    "UUID": "0a6af6d0-3ef4-47bd-b105-07b91a1d23ee"
+  },
+  {
+    "Name": "1.10.1.1",
+    "Type": "Release",
+    "UUID": "47f37eee-fa8e-442c-8edd-e9f28a2497cf"
+  },
+  {
+    "Name": "1.10.0.7",
+    "Type": "Release",
+    "UUID": "cf55c488-6839-4888-b892-562f92bb3dce"
+  },
+  {
+    "Name": "1.9.0.15",
+    "Type": "Release",
+    "UUID": "DDB8196F-A608-4436-B3BD-CC60D5A9D1AD"
+  },
+  {
+    "Name": "1.8.1.2",
+    "Type": "Release",
+    "UUID": "3276661D-8B7A-4A30-A325-AE05A6B9CBB1"
+  },
+  {
+    "Name": "1.8.0.24",
+    "Type": "Release",
+    "UUID": "659F8B59-3FC7-4242-A06E-DA1AB4BDE3C4"
+  },
+  {
+    "Name": "1.7.1.0",
+    "Type": "Release",
+    "UUID": "AC26D7E8-AEEB-43CA-9F09-01E082EF2D2D"
+  },
+  {
+    "Name": "1.7.0.13",
+    "Type": "Release",
+    "UUID": "E88DE30C-8981-4D92-8141-435689A237F4"
+  },
+  {
+    "Name": "1.6.1.0",
+    "Type": "Release",
+    "UUID": "3AFBABDD-876F-4C5F-8054-90210EC05AF8"
+  },
+  {
+    "Name": "1.6.0.14",
+    "Type": "Release",
+    "UUID": "5808C125-7001-47EF-871D-A38B20FE8D79"
+  },
+  {
+    "Name": "1.5.3.0",
+    "Type": "Release",
+    "UUID": "39EA04C0-CAB0-4859-A2BC-BFEBB18E68F4"
+  },
+  {
+    "Name": "1.5.2.1",
+    "Type": "Release",
+    "UUID": "F5C3D6B3-AE74-47CA-9579-5C324B0BAD17"
+  },
+  {
+    "Name": "1.5.0.14",
+    "Type": "Release",
+    "UUID": "9BC7BE70-4F65-44A5-A83D-B60CEE491A6D"
+  },
+  {
+    "Name": "1.4.2.0",
+    "Type": "Release",
+    "UUID": "E361D881-AED0-44E3-9D13-D4AA943F6463"
+  },
+  {
+    "Name": "1.2.10.2",
+    "Type": "Release",
+    "UUID": "825166E1-197B-4845-ADE7-D12A1B8A18D0"
+  },
+  {
+    "Name": "1.2.8.0",
+    "Type": "Release",
+    "UUID": "A2612767-B607-49E0-9145-6BD4AEC49FE7"
+  },
+  {
+    "Name": "1.2.3.6",
+    "Type": "Release",
+    "UUID": "57586DDC-3E4D-43BC-8DF2-7DC7F5EAAA57"
+  },
+  {
+    "Name": "1.2.2.3",
+    "Type": "Release",
+    "UUID": "2A36511E-3221-41D1-8BE4-8D49E05CB669"
+  },
+  {
+    "Name": "1.1.5.0",
+    "Type": "Release",
+    "UUID": "60C20FD7-B456-4FF6-AD66-7E7AB62527BA"
+  },
+  {
+    "Name": "1.0.0.16",
+    "Type": "Release",
+    "UUID": "4234690B-30B9-46A4-A5F9-811953A151D5"
+  },
+  {
+    "Name": "0.16.1.0",
+    "Type": "Release",
+    "UUID": "786FA001-04F9-42DE-A556-E98AF3684525"
+  },
+  {
+    "Name": "0.16.0.5",
+    "Type": "Release",
+    "UUID": "88FCAC52-F717-442E-A667-2B1943F7DAD3"
+  },
+  {
+    "Name": "0.15.10.0",
+    "Type": "Release",
+    "UUID": "C2FC6B6E-7548-4FDA-8936-C105C740B1E7"
+  },
+  {
+    "Name": "0.15.9.0",
+    "Type": "Release",
+    "UUID": "7E035D83-C675-4248-BED1-2087F739356E"
+  },
+  {
+    "Name": "0.15.8.0",
+    "Type": "Release",
+    "UUID": "367BE4B5-A71C-4D36-BC46-D11468777F7F"
+  },
+  {
+    "Name": "0.15.7.1",
+    "Type": "Release",
+    "UUID": "7EBC0F58-4AF1-4893-9465-FCBF57FDDE99"
+  },
+  {
+    "Name": "0.15.6.0",
+    "Type": "Release",
+    "UUID": "8FC80FC6-192C-4C50-8533-C5B49A5D3901"
+  },
+  {
+    "Name": "0.15.4.1",
+    "Type": "Release",
+    "UUID": "EC51A839-B3EE-44E6-BB8F-C75154547E66"
+  },
+  {
+    "Name": "0.15.0.0",
+    "Type": "Release",
+    "UUID": "28354370-EB00-498C-B6CB-1B2DBBDD8042"
+  },
+  {
+    "Name": "0.14.2.1",
+    "Type": "Release",
+    "UUID": "A4A7A7D3-9739-43A1-8668-1556DDDB4CD4"
+  },
+  {
+    "Name": "0.14.0.1",
+    "Type": "Release",
+    "UUID": "B17C2923-587A-442B-9BC6-76A13C02978C"
+  }
+]
