@@ -56,14 +56,6 @@
     }
   },
   {
-    "Name": "1.20.70.5",
-    "Type": "Release",
-    "UpdateIds": {
-      "x64": "bb93f5ac-4c63-4122-a35f-2e12805c5626",
-      "x86": "3318bf66-0285-4cb1-9381-f0b1639404f4"
-    }
-  },
-  {
     "Name": "1.20.62.1",
     "Type": "Release",
     "UpdateIds": {
