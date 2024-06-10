@@ -1,5 +1,45 @@
 [
   {
+    "Name": "1.21.10.22",
+    "Type": "Preview",
+    "UpdateIds": {
+      "x64": "5b7bc196-79fc-4b12-9d18-029ac958607b",
+      "x86": "eec00b05-3ba8-4784-8faa-9ef2068862de"
+    }
+  },
+  {
+    "Name": "1.21.10.21",
+    "Type": "Preview",
+    "UpdateIds": {
+      "x64": "63dc29ce-0340-462b-976c-42dabf59a83c",
+      "x86": "458a5a0f-264f-4a4d-b5af-81cad1bc3696"
+    }
+  },
+  {
+    "Name": "1.21.10.20",
+    "Type": "Preview",
+    "UpdateIds": {
+      "x64": "691e3f47-e8f5-41e9-b085-2a1d48233d5f",
+      "x86": "b10198d5-ff04-41fe-9ef2-d5bdb4445705"
+    }
+  },
+  {
+    "Name": "1.21.0.26",
+    "Type": "Preview",
+    "UpdateIds": {
+      "x64": "073caaaf-4480-49fe-903a-9a57d76c921f",
+      "x86": "b0649d64-2c10-45cd-ab9a-d86b0630830d"
+    }
+  },
+  {
+    "Name": "1.21.0.25",
+    "Type": "Preview",
+    "UpdateIds": {
+      "x64": "dd5c06b0-b249-4e2a-b46c-322c33c58f27",
+      "x86": "a9fc6c5e-5593-4cd7-acde-daeaf3d3d511"
+    }
+  },
+  {
     "Name": "1.21.0.24",
     "Type": "Preview",
     "UpdateIds": {
@@ -16,43 +56,11 @@
     }
   },
   {
-    "Name": "1.21.0.23",
-    "Type": "Preview",
-    "UpdateIds": {
-      "x64": "ceff03fb-d202-40ec-a158-4e26949ad91f",
-      "x86": "99d29732-240b-4428-ad13-a77bd69570b6"
-    }
-  },
-  {
     "Name": "1.20.80.5",
     "Type": "Release",
     "UpdateIds": {
       "x64": "6f2ca544-e31c-4916-b888-bb2815be4c84",
       "x86": "f6259b63-d00a-493b-a751-08c948cf536c"
-    }
-  },
-  {
-    "Name": "1.21.0.22",
-    "Type": "Preview",
-    "UpdateIds": {
-      "x64": "9cbdf7b6-c381-4fef-8306-a584ac2128f3",
-      "x86": "4c240459-bde9-4b4c-9403-3e6a43104f85"
-    }
-  },
-  {
-    "Name": "1.21.0.21",
-    "Type": "Preview",
-    "UpdateIds": {
-      "x64": "144cbbe7-09d4-4a14-b310-2f5c2f93a482",
-      "x86": "f9f9c0e7-509e-4680-b7c2-3bf9998aa932"
-    }
-  },
-  {
-    "Name": "1.21.0.20",
-    "Type": "Preview",
-    "UpdateIds": {
-      "x64": "e9839fe1-14ee-43c9-9081-d34f91682d22",
-      "x86": "66ad3a34-fd1c-4d0d-913d-8a292f75d5a1"
     }
   },
   {
@@ -64,35 +72,11 @@
     }
   },
   {
-    "Name": "1.20.80.24",
-    "Type": "Preview",
-    "UpdateIds": {
-      "x64": "edb31b61-e4a8-4589-8666-cdf1a9703915",
-      "x86": "00bc6109-af45-4d33-a8a2-08808a713950"
-    }
-  },
-  {
-    "Name": "1.20.80.23",
-    "Type": "Preview",
-    "UpdateIds": {
-      "x64": "0a83cf55-dc93-48e7-b948-c34291954a44",
-      "x86": "e4c7d8ca-ea45-4779-8d94-6e37d357f19b"
-    }
-  },
-  {
     "Name": "1.20.72.1",
     "Type": "Release",
     "UpdateIds": {
       "x64": "b7101d23-4658-48b0-a5c5-24202162309b",
       "x86": "ca8f32d5-25f2-4029-b6c9-4bae0161b766"
-    }
-  },
-  {
-    "Name": "1.20.80.22",
-    "Type": "Preview",
-    "UpdateIds": {
-      "x64": "6da8bba8-ff80-4594-b62b-3926d341d93c",
-      "x86": "b9dc506d-ecc8-43f5-9a7a-927da520827c"
     }
   },
   {
