@@ -1,5 +1,21 @@
 [
   {
+    "Name": "1.21.30.23",
+    "Type": "Preview",
+    "UpdateIds": {
+      "x64": "2d5d523e-0688-4901-a39d-dd51418c0332",
+      "x86": "49f5bea4-7225-4d40-85f6-a6067f222cfc"
+    }
+  },
+  {
+    "Name": "1.21.21.1",
+    "Type": "Release",
+    "UpdateIds": {
+      "x64": "c90d2602-5730-4276-be4a-7c0e507718e2",
+      "x86": "9faf7ba0-d966-4296-9843-7b71577ea948"
+    }
+  },
+  {
     "Name": "1.21.20.3",
     "Type": "Release",
     "UpdateIds": {
