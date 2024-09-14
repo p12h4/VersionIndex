@@ -72,30 +72,6 @@
     }
   },
   {
-    "Name": "1.21.30.22",
-    "Type": "Preview",
-    "UpdateIds": {
-      "x64": "41423e27-d370-452b-8d89-65ffb962bf2d",
-      "x86": "dc29b15b-367f-472c-8625-b1b1c9a9e6e8"
-    }
-  },
-  {
-    "Name": "1.21.30.21",
-    "Type": "Preview",
-    "UpdateIds": {
-      "x64": "d86bf0ac-516d-4f01-978e-dbf404fa78f0",
-      "x86": "6cb9aeb6-a837-49a5-a4c5-8584ba4dc298"
-    }
-  },
-  {
-    "Name": "1.21.20.24",
-    "Type": "Preview",
-    "UpdateIds": {
-      "x64": "5c93cc57-8cfd-49a6-92f5-e586c7774895",
-      "x86": "b690d718-8dd1-441e-8a92-f465d350d510"
-    }
-  },
-  {
     "Name": "1.21.2.2",
     "Type": "Release",
     "UpdateIds": {
