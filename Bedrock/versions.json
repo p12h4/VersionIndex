@@ -56,35 +56,11 @@
     }
   },
   {
-    "Name": "1.21.30.25",
-    "Type": "Preview",
-    "UpdateIds": {
-      "x64": "dbf1bf47-35b3-43aa-9207-4743ea58ff4a",
-      "x86": "6a5e0d64-2f90-4c9c-98dc-7ee81e69bb80"
-    }
-  },
-  {
     "Name": "1.21.22.1",
     "Type": "Release",
     "UpdateIds": {
       "x64": "206c607e-73ba-4710-a698-6776c4f280a1",
       "x86": "a7be7844-e88a-41cd-84ef-b63643d73b2d"
-    }
-  },
-  {
-    "Name": "1.21.30.24",
-    "Type": "Preview",
-    "UpdateIds": {
-      "x64": "cb444d33-f48c-49f7-887d-91ee99a6fbb1",
-      "x86": "94a1798d-7baa-4e07-88b6-9b78baf88bb5"
-    }
-  },
-  {
-    "Name": "1.21.30.23",
-    "Type": "Preview",
-    "UpdateIds": {
-      "x64": "2d5d523e-0688-4901-a39d-dd51418c0332",
-      "x86": "49f5bea4-7225-4d40-85f6-a6067f222cfc"
     }
   },
   {
