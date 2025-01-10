@@ -16,14 +16,6 @@
     }
   },
   {
-    "Name": "1.21.51.1",
-    "Type": "Release",
-    "UpdateIds": {
-      "x64": "22c7f3d8-0fa0-4fd6-be14-077b45c8fe2a",
-      "x86": "c1826e2b-21c2-4570-81a3-e99000fc0399"
-    }
-  },
-  {
     "Name": "1.21.60.23",
     "Type": "Preview",
     "UpdateIds": {
