@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Microsoft.Services.Store.Engagement",
+    "Version": "10.0.23012.0",
+    "UpdateIds": {
+      "x64": "803fd64a-3863-4393-8207-52c4c1c34d7a",
+      "x86": "a0287c2e-dd76-4319-a049-4b13203cf9f4"
+    }
+  },
+  {
+    "Name": "Microsoft.VCLibs.140.00"
+    "Version": "14.0.33519.0",
+    "UpdateIds": {
+      "x64": "c5944962-52f0-4025-aac1-bdf7ba43b479",
+      "x86": "71993f05-0013-4361-8584-47db51960571"
+    }
+  }
+]
