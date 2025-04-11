@@ -48,27 +48,11 @@
     }
   },
   {
-    "Name": "1.21.70.25",
-    "Type": "Preview",
-    "UpdateIds": {
-      "x64": "bf70c1b2-4ab2-4db7-a83e-7d7de8190243",
-      "x86": "4132627d-4f58-4773-abd4-dc85c06e7674"
-    }
-  },
-  {
     "Name": "1.21.62.1",
     "Type": "Release",
     "UpdateIds": {
       "x64": "52a8f5ac-2ae0-4f1c-8fc3-95b85fe243bc",
       "x86": "b75bf0a2-0527-45fa-aaa7-2c72e1fab508"
-    }
-  },
-  {
-    "Name": "1.21.70.24",
-    "Type": "Preview",
-    "UpdateIds": {
-      "x64": "a9c1a01d-468a-4d14-b4c5-e13fb8e2b11b",
-      "x86": "94c01320-f06c-4c23-9402-4e441587d436"
     }
   },
   {
